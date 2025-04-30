@@ -1,7 +1,7 @@
 # Oi, eu sou a Carolina! 👋
 
 🎓 Estudante de Inteligência de Mercado e Análise de Dados  
-💼 Trabalho com faturamento e atendimento na indústria moveleira  
+💼 Trabalho como Assistente comercial e de atendimento na indústria moveleira  
 🎧 Apaixonada por música, curiosa por natureza, e em transição de carreira para a área de dados!
 
 Atualmente estou aprendendo:
