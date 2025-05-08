@@ -1,10 +1,6 @@
 
 <p align="center">
-<<<<<<< HEAD
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=C8A2C8&center=true&vCenter=true&width=600&lines=Oi%2C+pessoal!;Sou+a+Carol+e+estou+iniciando+na+área+de+Dados;Bem-vindos+à+minha+conta+GitHub." alt="Typing SVG" />
-=======
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=C8A2C8&center=true&vCenter=true&width=600&lines=Oi%2C+pessoal!;Sou+a+Carol+e+estou+iniciando+na+área+de+Dados;Bem-vindos+ao+meu+perfil+GitHub." alt="Typing SVG" />
->>>>>>> 4a6381bea123188a10bb4e7c119d79839922d209
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=C8A2C8&center=true&vCenter=true&width=600&lines=Oi%2C+pessoal!;Sou+a+Carol+e+estou+iniciando+na+área+de+Dados;Bem-vindos+a+minha+primeira+contribuição." alt="Typing SVG" />
 </p>
 
 
