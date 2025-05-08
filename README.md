@@ -4,16 +4,14 @@
 </p>
 
 
-## <p align="center">
-🔍Sobre mim
-</p>
+##🔍Sobre mim
+
 Me chamo Carolina, mas pode me chamar de Carol.
 Tenho 29 anos, trabalho atualmente como Assistente Comercial em Indústria Moveleira.
 Sou apaixonada por tecnologia e atualmente estudo Inteligência de Mercado e Análise de Dados. Estou construindo meu portfólio e aprendendo ferramentas como Python, Excel, SQL e Power BI.
 
-## <p align="center">
-🖥️Linguagens e Ferramentas
-</p>
+## 🖥️Linguagens e Ferramentas
+
 ![Python](https://img.shields.io/badge/python-fff?style=for-the-badge&logo=python&logoColor=ffdd54) 
 
 ![C](https://img.shields.io/badge/C-fff?style=for-the-badge&logo=c&logoColor=purple)
@@ -28,19 +26,13 @@ Sou apaixonada por tecnologia e atualmente estudo Inteligência de Mercado e An�
 
 ![GitHub](https://img.shields.io/badge/GITHUB-white?style=for-the-badge&logo=github&logoColor=purple)
 
-## <p align="center">
-🌐Redes 
-</p>
+## 🌐Redes 
 Essas são minhas redes profissionais, caso queira se conectar!
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Carolina-800080?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/carolina-s-ribeiro-32269b259/)
 
 [![GitHub](https://img.shields.io/badge/GitHub-Carolina-B57EDC?style=for-the-badge&logo=linkedin&logoColor=white)](https://github.com/Carolinasribeiro)
 
-## <p align="center">
-📊Estatísticas
-</p>
+## 📊Estatísticas
+
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Carolinasribeiro&theme=transparent&bg_color=000&border_color=30A3DC&show_icons=true&icon_color=B57EDC&title_color=800080&text_color=FFF)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Carolinasribeiro&theme=transparent&background=000&ring=800080&currStreakLabel=B57EDC)
-
