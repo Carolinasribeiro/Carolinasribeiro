@@ -1,9 +1,8 @@
-
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1500&color=C8A2C8&center=true&vCenter=true&width=600&lines=Oi%2C+pessoal!;Sou+a+Carol+e+estou+iniciando+na+área+de+Dados;Bem-vindos+a+minha+primeira+contribuição." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Roboto+Code&size=21&pause=1500&color=800080&center=true&vCenter=true&width=500&lines=Welcome+my+profile;Ol%C3%A1%2C+pessoal!;Sou+a+Carol+e+estou+iniciando+na+área+de+Dados;Bem-vindos+a+minha+conta+GitHub." alt="Typing SVG" />
 </p>
 
-
+---
 ## 🔍Sobre mim
 
 Me chamo Carolina, mas pode me chamar de Carol.
