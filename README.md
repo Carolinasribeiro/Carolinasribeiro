@@ -4,7 +4,7 @@
 </p>
 
 
-##🔍Sobre mim
+## 🔍Sobre mim
 
 Me chamo Carolina, mas pode me chamar de Carol.
 Tenho 29 anos, trabalho atualmente como Assistente Comercial em Indústria Moveleira.
